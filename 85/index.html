@@ -74,10 +74,9 @@
     }
 
     const measurements_table = [
-        {key: 'tthpc', name: 'Time to Hanging Protocols Complete', desc: 'Time until the hanging protocol pipelines have been run and layout and viewports have been determined'},
         {key: 'ttfi', name: 'Time to First Image Shown', desc: 'Time from user started a CAM until the first image has been rendered'},
         {key: 'ttvv', name: 'Time to All Visible Viewports Shown', desc: 'Time from user started a CAM until all non-empty viewports on the current tab have rendered an image'},
-        {key: 'tthc', name: 'Time to Hanging Complete', desc: 'Time until the hanging protocols have received all scheduled DicomObjects. Equivalent to loading bar finished.'},
+        {key: 'tthc', name: 'Time to Hanging Complete', desc: 'Time until the hanging protocol has been executed and layout and viewports has been determined'},
         {key: 'ttli', name: 'Time to Last Image Fetched', desc: 'Time until all images in the initial primary and prior studies have been fetched'},
         {key: 'tti', name: 'Time to interactive', desc: 'Time until the last 500+ ms non-responsive period has passed'},
         {key: 'tspd', name: 'Transfer Rate', desc: 'Transfer Rate, MB/s'},
@@ -635,42 +634,24 @@
     }
 
     window.onload = async function() {
-        let response = await fetch('stats.json');
-        let diags = (await (await fetch('diagnostics.json')).json());
-
-        let goals = [];
+	let goals = [];
         try {
             goals = (await (await fetch('goals.json')).json());
         } catch (error) {
             console.log("Failed to load goals");
         }
-
-        const records = await response.json();
-        records.forEach(r => {
-            r.version = r.archive;
-            r.platform = '';
-            r.name = r.study;
-        });
-        records.sort((lhs, rhs) => lhs.name.localeCompare(rhs.name));
-
-        const manifest = {
-            platforms: ['']
-        };
-        manifest.versions = Object.keys(records.map(r => r.archive).reduce((acc, r) => {
-            acc[r] = true;
-            return acc;
-        }, {})).sort();
-
+        const manifest = await fetchManifest();
+        const records = await fetchRecords(manifest);
         const root = buildDataTree(manifest, records);
 
+        setupVersionSelector('version_select', manifest.versions, () => {
+            printStatsTable('stats_table', statsForSelectedVersions(root));
+        });
+        printStatsTable('stats_table', statsForSelectedVersions(root));
         // for debug
         window.benchmark_data = { root: root, manifest: manifest, source: records};
-        window.diagnostics = diags;
 
         renderCharts('charts_container', root, manifest.versions, goals);
-
-        renderDiagnostics(diags);
-
     }
   </script>
 </body>

@@ -1,0 +1,1 @@
+{"platforms":["linux"],"versions":["8.5","8.4"],"config":{"8.5":{"archs":{"nvidia-docker-be-el7":"linux"},"version":"8.5"},"8.4":{"job":"easyviz-on-demand-benchmark","build":4,"archs":{"nvidia-docker-be-el7":"linux"},"version":"8.4"}}}
