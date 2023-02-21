@@ -270,7 +270,7 @@
             hdr_tr.appendChild(hdr_th);
             table.appendChild(hdr_tr);
 
-            stats.labels.stats.forEach(s => {
+            stats.labels.stats.forEach((s, idx) => {
                 let tr = document.createElement('tr');
                 // generate a header cell
                 let th = document.createElement('th');
@@ -282,7 +282,7 @@
                 // fill in the data
                 stats.labels.platforms.forEach(p => {
                     let td = document.createElement('td');
-                    td.textContent = stats.platforms[p][m][s];
+                    td.textContent = stats.platforms[p][m][idx];
                     tr.appendChild(td);
                 })
             });
@@ -341,18 +341,24 @@
             platforms: {}
         };
 
-        const stat_names = {
-            best_time: 'Best',
-            median_time: 'Median',
-            diff_median: 'Median of differences',
-            avg_diff: 'Average difference in percent'
+        const stat_names_base = {
+            best_time: {name: 'Best', property: 'min'},
+            avg_time: {name: 'Average', property: 'mean'},
+            median_time: {name: 'Median', property: 'median'}
+        };
+        const stat_names_sub = {
+            diff_median: 'Absolute difference (median)',
+            avg_diff: 'Difference in percent (average)'
         };
 
+        for (const [key, value] of Object.entries(stat_names_base)) {
+            stats.labels.stats.push(value.name);
+            const nbsp = String.fromCharCode(0xa0);
+            stats.labels.stats.push(nbsp + nbsp + nbsp + nbsp + stat_names_sub.diff_median);
+            stats.labels.stats.push(nbsp + nbsp + nbsp + nbsp + stat_names_sub.avg_diff);
+        }
+
         // Set up the labels we want to display in our table
-        stats.labels.stats.push(stat_names.best_time);
-        stats.labels.stats.push(stat_names.median_time);
-        stats.labels.stats.push(stat_names.diff_median);
-        stats.labels.stats.push(stat_names.avg_diff);
         stats.labels.platforms = root.map(elem => elem.name);
         stats.labels.measurements = root[0].measurements.map(elem => elem.name);
         stats.labels.units = root[0].measurements.map(elem => elem.unit);
@@ -371,22 +377,31 @@
                 const prev_recs = measurement.versions.find(v => v.name === prev_version).records;
                 const cur_recs = measurement.versions.find(v => v.name === cur_version).records;
 
-                // compute the values we want to display
-                const min = Math.min.apply(null, valid(prop(cur_recs, "min")));
-                const median = quantile(valid(prop(cur_recs, "median")), 0.5);
-                const diff_median = quantile(valid(zip(prop(prev_recs, "median"), prop(cur_recs, "median"),
-                        (l, r) => r - l)), 0.5);
-                const avg_diffs = zip(zip(prop(prev_recs, "mean"), prop(cur_recs, "mean"),
-                        (l, r) => r - l), prop(prev_recs, "mean"), (diff, prev) => diff / prev);
-                const avg_diff = valid(avg_diffs).reduce((l, r) => l + r) / valid(avg_diffs).length;
+                // FIXME: to get data, prop(arr, propname)
+                const aggregate_funcs = {
+                    min: arr => Math.min.apply(null, valid(arr)),
+                    mean: arr => {
+                        const filtered = valid(arr);
+                        return filtered.reduce((l, r) => l + r) / filtered.length;
+                    },
+                    median: arr => quantile(valid(arr), 0.5)
+                };
 
                 // store the results
-                const result = {};
+                const result = [];
                 const unit = stats.labels.units[idx];
-                result[stat_names.best_time] = min.toFixed(3) + ' ' + unit;
-                result[stat_names.median_time] = median.toFixed(3) + ' ' + unit;
-                result[stat_names.diff_median] = diff_median.toFixed(3) + ' ' + unit;
-                result[stat_names.avg_diff] = (avg_diff * 100).toPrecision(3) + ' %';
+                for (const [key, value] of Object.entries(stat_names_base)) {
+                    const arr = prop(cur_recs, value.property);
+                    const old_arr = prop(prev_recs, value.property);
+                    // Add current value
+                    result.push(aggregate_funcs[value.property](arr).toFixed(3) + ' ' + unit);
+                    // median of absolute diffs relative to old version
+                    const abs_diffs = zip(old_arr, arr, (l, r) => r - l);
+                    result.push(aggregate_funcs.median(abs_diffs).toFixed(3) + ' ' + unit);
+                    // average of fractional diffs relative to old version
+                    const frac_diffs = zip(zip(old_arr, arr, (l, r) => r - l), old_arr, (diff, prev) => diff / prev);
+                    result.push((aggregate_funcs.mean(frac_diffs) * 100).toPrecision(3) + ' %');
+                }
 
                 stats.platforms[platform.name][measurement.name] = result;
             });
