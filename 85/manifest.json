@@ -1,1 +1,1 @@
-{"platforms":["linux"],"versions":["8.2","8.4","8.5"],"config":{"8.2":{"archs":{"nvidia-docker-be-el7":"linux"},"version":"8.2"},"8.4":{"archs":{"nvidia-docker-be-el7":"linux"},"version":"8.4"},"8.5":{"archs":{"nvidia-docker-be-el7":"linux"},"version":"8.5"}}}
+{"platforms":["linux","win32"],"versions":["8.4","8.5"]}
