@@ -1,1 +1,1 @@
-{"platforms":["linux"],"versions":["8.5.29","8.5.35"],"config":{"8.5.29":{"job":"easyviz-9.0-benchmark","build":29,"archs":{"nvidia-docker-be-el7":"linux"},"version":"8.5.29"},"8.5.35":{"job":"easyviz-9.0-benchmark","build":35,"archs":{"nvidia-docker-be-el7":"linux"},"version":"8.5.35"}}}
+{"platforms":["linux"],"versions":["8.2","8.4","8.5"],"config":{"8.2":{"archs":{"nvidia-docker-be-el7":"linux"},"version":"8.2"},"8.4":{"archs":{"nvidia-docker-be-el7":"linux"},"version":"8.4"},"8.5":{"archs":{"nvidia-docker-be-el7":"linux"},"version":"8.5"}}}
