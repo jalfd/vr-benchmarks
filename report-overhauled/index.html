@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <title>general2d-bench stats</title>
+
+  <style type='text/css'>
+  .diagnostics {
+    background-color: #e3e3e3;
+    border-style: solid;
+    border-color: #2c2d2d;
+    border-width: 0.2mm;
+    padding: 0.4em;
+    font-family: monospace;
+  }
+
+  .diagnostics > .error {
+    font-weight: bold;
+  }
+  .diagnostics > .warning {
+  }
+
+  table {
+    margin: 0px;
+    padding: 0px;
+  }
+  th {
+    text-align: left;
+  }
+  td {
+    text-align: right;
+    padding-left: 2em;
+  }
+  th.left {
+    padding-left: 2em;
+  }
+  th.left_indent {
+    padding-left: 3em;
+    font-weight: 150;
+  }
+  th.top {
+    border-bottom: thin solid;
+  }
+  thead th {
+    text-align: right;
+  }
+
+  #charts_container: {
+    width: 100%;
+  }
+  #charts_container > div: {
+    width: 100%;
+  }
+  </style>
+</head>
+<body>
+  <div id='version_select'>
+  </div>
+  <table id='stats_table'></table>
+  <div id='charts_container'></div>
+  <script type="module">
+    import {loadForBatchMode} from "./report.js";
+    window.onload = loadForBatchMode;
+  </script>
+</body>
+</html>
