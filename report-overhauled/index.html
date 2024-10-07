@@ -45,11 +45,29 @@
     text-align: right;
   }
   #summary_section {
-    display: flex
+    display: flex;
+    align-items: flex-start;
   }
   #stats_table  {
     width: 40%;
     margin-right: 20%
+  }
+  #missing_table {
+    padding-left: 1em;
+    background-color: #efefef;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cccccc
+  }
+  .missing_full {
+    display: none;
+    height: 100em;
+    overflow-y: scroll;
+  }
+  .missing_summmary {
+    display: none;
+    height: 100em;
+    overflow-y: scroll;
   }
   </style>
 </head>
