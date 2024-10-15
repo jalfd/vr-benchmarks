@@ -1,0 +1,28 @@
+{
+  "platforms": [
+    "linux"
+  ],
+  "versions": [
+    "9.0",
+    "9.1"
+  ],
+  "source_urls": {
+    "stats-linux-9.1.json": "https://jalfd.github.io/vr-benchmarks/report-overhauled/stats-linux-9.1.json",
+    "stats-linux-9.0.json": "stats-linux-9.0.json"
+  },
+  "input": "[{\"name\":\"9.1\", \"link_external\": true}, \"9.0\"] \r\n",
+  "config": [
+    {
+      "url": "https://jenkins-cp.devx.vitalimages.com/job/easyviz-benchmark/job/release%2F9.1/lastSuccessfulBuild/artifact/general2d-bench-report/stats.json",
+      "version": "9.1",
+      "platform": "linux",
+      "link_external": true
+    },
+    {
+      "url": "https://jenkins-cp.devx.vitalimages.com/job/easyviz-benchmark/job/release%2F9.0/lastSuccessfulBuild/artifact/general2d-bench-report/stats.json",
+      "version": "9.0",
+      "platform": "linux",
+      "link_external": false
+    }
+  ]
+}
