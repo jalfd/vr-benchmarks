@@ -3,10 +3,12 @@
     "windows"
   ],
   "versions": [
+    "9.0",
     "before",
     "after"
   ],
   "source_urls": {
+    "stats-windows-9.0.json": "stats-windows-9.0.json",
     "stats-windows-before.json": "stats-windows-before.json",
     "stats-windows-after.json": "stats-windows-after.json"
   },
