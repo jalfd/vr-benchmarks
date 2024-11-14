@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>VR Performance</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body { font-family: 'Segoe UI'; }
+      h1, h2, h3 {
+        font-weight: normal;
+      }
+
+      .remark-slide-content.title h1 {
+        font-size: 37px;
+        color: #BB271B;
+      }
+      .remark-slide-content.title h2 { font-size: 24px; }
+
+      .remark-slide-content.sectiontitle h1 {
+        font-size: 37px;
+        color: black;
+      }
+      .remark-slide-content.sectiontitle h2 { font-size: 24px; }
+
+      li { padding-bottom: 0.15em; }
+      pre {
+        background-color: #eee;
+        border-color: #ddd;
+        border-width: 1px;
+        border-style: solid;
+        padding: 0.5em;
+      }
+
+
+      .left-column  { width: 49%; float: left; }
+      .right-column { width: 49%; float: right; }
+
+      .left-column-33  { width: 33%; float: left; }
+      .right-column-33 { width: 33%; float: right; }
+      .right-column-20 { width: 20%; float: right; }
+
+      .left-column-66  { width: 66%; float: left; }
+      .right-column-66 { width: 66%; float: right; }
+
+      .right-column ~ p { clear: both; }
+      .right-column ~ ul { clear: both; }
+      .remark-code { font-size: 16px; }
+      .remark-slide-number { display: none }
+      .regular .remark-slide-number {
+        display: block;
+        padding-right: 3em
+      }
+      
+
+      .footer {
+        position: fixed;
+        bottom: 0px;
+        height: 30px;
+        left: 3em;
+        right: 3em;
+        padding-top: 0.2em;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+
+        border-top: 1px solid #bfbfbf;
+      }
+
+      .regular .header {
+        position: fixed;
+        top: 1em;
+        height: 30px;
+        left: 3em;
+        right: 3em;
+        padding-bottom: 0.2em;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+        color: #bb271a;
+
+        border-bottom: 1px solid #bfbfbf;
+      }
+
+      .remark-slide-content.regular {
+        padding-top: 2.5em;
+      }
+
+      .remark-slide-content.regular h1 {
+        font-size: 20px;
+        position: fixed;
+        top: 10px;
+        color: #bb271a;
+      }
+
+      .regular .footer img { height: 15px;}
+
+    </style>
+  </head>
+  <body>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+    <script>
+      remark.macros.scale = function (percentage) {
+  var url = this;
+  return '<img src="' + url + '" style="width: ' + percentage + '" />';
+};
+      const slideshow = remark.create({ sourceUrl: 'slides.md', countIncrementalSlides: false});
+    </script>
+  </body>
+</html>

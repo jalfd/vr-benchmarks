@@ -1,0 +1,106 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="760" height="518.0330085889912"><style xmlns="http://www.w3.org/1999/xhtml"></style><defs/><g transform="translate(0,0)"><path fill="none" stroke="none" stroke-dasharray="undefined" vector-effect="non-scaling-stroke"/><g><rect fill="#FFFFFF" stroke="none" x="0" y="0" width="760" height="518.0330085889912"/></g><g data-width="90" data-height="90" data-layerId="tlvWqKkP20km" transform="translate(0,0) matrix(1,0,0,1,540,230)"><g><g transform="translate(0,0) scale(0.9,0.9)"><g><path fill="#FFFFFF" stroke="#333333" stroke-dasharray="1.7976931348623157e+308" vector-effect="non-scaling-stroke" d="M 100 50 A 50 50 0 1 0 99.99997500000208 50.04999999166668 Z" stroke-miterlimit="10" stroke-width="2"/><g transform="scale(1.1111111111111112,1.1111111111111112)"/></g></g></g></g><g transform="matrix(1,0,0,1,542,261)"><foreignObject width="86" height="28"><style>
+                    .gliffy-rte-text {
+                        margin:0 0;
+                        padding:0 0;
+                        border: 0 none;
+                        line-height:normal;
+                        color:black;
+                        background-color:transparent;
+                        text-align:center;
+                    }
+
+                    .gliffy-rte-text p {
+                        line-height: 0px;
+                        white-space:normal;
+                        word-wrap: break-word;
+                        margin: 0 0;
+                        padding: 0 0;
+                        border: 0 none;
+                        font-size:12px;
+                        font-family:Arial;
+                    }
+
+                    /*otherwise we want to fix the color to blue*/
+                    .gliffy-rte-text p a {
+                        color: #0000FF;
+                        text-decoration: underline;
+                    }
+
+                    .gliffy-rte-text p a span {
+                        /*this !important is actually required.
+                        We need to override the text-decoration property that tinyMCE shoves into the span*/
+                        text-decoration: underline !important;
+                    }
+                </style>
+                    <div xmlns="http://www.w3.org/1999/xhtml" id="gliffy_node_25d14c3f-4655-4814-8253-af1c0ed95713" class="gliffy-text gliffy-graphic gliffy-rte-text n25d14c3f-4655-4814-8253-af1c0ed95713 gliffy-text-with-shape-parent-secondary gliffy_node_25d14c3f-4655-4814-8253-af1c0ed95713" style="width: 86px; height: 28px; visibility: visible; overflow: visible; margin: 0px; padding: 0px; background-color: transparent; transform: none; transform-origin: 0px 0px 0px; top: 0px; left: 0px; z-index: 1; position: static;"><p style="text-align: center;"><span style="font-family: Arial; font-size: 12px; text-decoration: none;"><span style="text-decoration: none;"><span style="font-weight: bold; line-height: 14px;">Inspect Benchmark</span><br /></span></span></p><p style="text-align: center;"></p></div>
+                </foreignObject></g><g data-width="90" data-height="90" data-layerId="tlvWqKkP20km" transform="translate(0,0) matrix(1,0,0,1,650,408.0330085889911)"><g><g transform="translate(0,0) scale(0.9,0.9)"><g><path fill="#FFFFFF" stroke="#333333" stroke-dasharray="1.7976931348623157e+308" vector-effect="non-scaling-stroke" d="M 100 50 A 50 50 0 1 0 99.99997500000208 50.04999999166668 Z" stroke-miterlimit="10" stroke-width="2"/><g transform="scale(1.1111111111111112,1.1111111111111112)"/></g></g></g></g><g transform="matrix(1,0,0,1,652,439)"><foreignObject width="86" height="28"><style>
+                    .gliffy-rte-text {
+                        margin:0 0;
+                        padding:0 0;
+                        border: 0 none;
+                        line-height:normal;
+                        color:black;
+                        background-color:transparent;
+                        text-align:center;
+                    }
+
+                    .gliffy-rte-text p {
+                        line-height: 0px;
+                        white-space:normal;
+                        word-wrap: break-word;
+                        margin: 0 0;
+                        padding: 0 0;
+                        border: 0 none;
+                        font-size:12px;
+                        font-family:Arial;
+                    }
+
+                    /*otherwise we want to fix the color to blue*/
+                    .gliffy-rte-text p a {
+                        color: #0000FF;
+                        text-decoration: underline;
+                    }
+
+                    .gliffy-rte-text p a span {
+                        /*this !important is actually required.
+                        We need to override the text-decoration property that tinyMCE shoves into the span*/
+                        text-decoration: underline !important;
+                    }
+                </style>
+                    <div xmlns="http://www.w3.org/1999/xhtml" id="gliffy_node_016978c0-06a0-42e8-bf29-2b2c4a43a091" class="gliffy-text gliffy-graphic gliffy-rte-text n016978c0-06a0-42e8-bf29-2b2c4a43a091 gliffy-text-with-shape-parent-secondary gliffy_node_016978c0-06a0-42e8-bf29-2b2c4a43a091" style="width: 86px; height: 28px; visibility: visible; overflow: visible; margin: 0px; padding: 0px; background-color: transparent; transform: none; transform-origin: 0px 0px 0px; top: 0px; left: 0px; z-index: 3; position: static;"><p style="text-align: center;"><span style="font-family: Arial; font-size: 12px; text-decoration: none; font-weight: bold;"><span style="text-decoration: none; line-height: 14px;">Analyze<br />Trace File<br /></span></span></p></div>
+                </foreignObject></g><g data-width="90" data-height="90" data-layerId="tlvWqKkP20km" transform="translate(0,0) matrix(1,0,0,1,430,408.0330085889911)"><g><g transform="translate(0,0) scale(0.9,0.9)"><g><path fill="#FFFFFF" stroke="#333333" stroke-dasharray="1.7976931348623157e+308" vector-effect="non-scaling-stroke" d="M 100 50 A 50 50 0 1 0 99.99997500000208 50.04999999166668 Z" stroke-miterlimit="10" stroke-width="2"/><g transform="scale(1.1111111111111112,1.1111111111111112)"/></g></g></g></g><g transform="matrix(1,0,0,1,432,439)"><foreignObject width="86" height="28"><style>
+                    .gliffy-rte-text {
+                        margin:0 0;
+                        padding:0 0;
+                        border: 0 none;
+                        line-height:normal;
+                        color:black;
+                        background-color:transparent;
+                        text-align:center;
+                    }
+
+                    .gliffy-rte-text p {
+                        line-height: 0px;
+                        white-space:normal;
+                        word-wrap: break-word;
+                        margin: 0 0;
+                        padding: 0 0;
+                        border: 0 none;
+                        font-size:12px;
+                        font-family:Arial;
+                    }
+
+                    /*otherwise we want to fix the color to blue*/
+                    .gliffy-rte-text p a {
+                        color: #0000FF;
+                        text-decoration: underline;
+                    }
+
+                    .gliffy-rte-text p a span {
+                        /*this !important is actually required.
+                        We need to override the text-decoration property that tinyMCE shoves into the span*/
+                        text-decoration: underline !important;
+                    }
+                </style>
+                    <div xmlns="http://www.w3.org/1999/xhtml" id="gliffy_node_fffa4232-40ab-4f9c-ab93-b9b7d349712a" class="gliffy-text gliffy-graphic gliffy-rte-text nfffa4232-40ab-4f9c-ab93-b9b7d349712a gliffy-text-with-shape-parent-secondary gliffy_node_fffa4232-40ab-4f9c-ab93-b9b7d349712a" style="width: 86px; height: 28px; visibility: visible; overflow: visible; margin: 0px; padding: 0px; background-color: transparent; transform: none; transform-origin: 0px 0px 0px; top: 0px; left: 0px; z-index: 5; position: static;"><p style="text-align: center;"><span style="font-family: Arial; font-size: 12px; text-decoration: none; font-weight: bold;"><span style="text-decoration: none; line-height: 14px;" class="">Analyze</span></span></p><p style="text-align: center;"><span style="font-family: Arial; font-size: 12px; text-decoration: none; font-weight: bold;"><span style="text-decoration: none; line-height: 14px;" class="">WPA trace<br /></span></span></p></div>
+                </foreignObject></g><g data-width="100" data-height="50" data-layerId="tlvWqKkP20km" transform="translate(0,0) matrix(0.5000000000000001,0.8660254037844386,-0.8660254037844386,0.5000000000000001,640,301.966991411009)"><g><g transform="translate(0,0) scale(1,0.5)"><g><path fill="#FFFFFF" stroke="#333333" stroke-dasharray="1.7976931348623157e+308" vector-effect="non-scaling-stroke" d="M 0 30 L 75 30 L 75 0 L 100 50 L 75 100 L 75 70 L 0 70 L 0 30 Z" stroke-miterlimit="10" stroke-width="2"/><g transform="scale(1,2)"/></g></g></g></g><g data-width="100" data-height="50" data-layerId="tlvWqKkP20km" transform="translate(0,0) matrix(1,0,0,1,540,430)"><g><g transform="translate(0,0) scale(1,0.5)"><g><path fill="#FFFFFF" stroke="#333333" stroke-dasharray="1.7976931348623157e+308" vector-effect="non-scaling-stroke" d="M 0 50 L 25 0 L 25 30 L 100 30 L 100 70 L 25 70 L 25 100 L 0 50 Z" stroke-miterlimit="10" stroke-width="2"/><g transform="scale(1,2)"/></g></g></g></g><g data-width="100" data-height="50" data-layerId="tlvWqKkP20km" transform="translate(0,0) matrix(0.5000000000000001,-0.8660254037844386,0.8660254037844386,0.5000000000000001,483.34936490538905,388.56953178945287)"><g><g transform="translate(0,0) scale(1,0.5)"><g><path fill="#FFFFFF" stroke="#333333" stroke-dasharray="1.7976931348623157e+308" vector-effect="non-scaling-stroke" d="M 0 30 L 75 30 L 75 0 L 100 50 L 75 100 L 75 70 L 0 70 L 0 30 Z" stroke-miterlimit="10" stroke-width="2"/><g transform="scale(1,2)"/></g></g></g></g></g></svg>
