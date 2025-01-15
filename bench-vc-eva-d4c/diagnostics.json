@@ -1,0 +1,1137 @@
+[
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 0,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.2.840.113619.2.67.2203893831.23914050901134649.20000 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.2.840.113619.2.67.2203893831.23914050901134649.20000"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 0,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.269819997845458.5895441.22872.280 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.269819997845458.5895441.22872.280"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 0,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.113352254466.5340973.4801.960 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.113352254466.5340973.4801.960"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 0,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.113352254466.5331671.28219.11 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.113352254466.5331671.28219.11"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 0,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.219520162625384.6107495.9765.1 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.219520162625384.6107495.9765.1"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 0,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.12.2.1107.5.6.1.5823.32060108120906120965600000025 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.12.2.1107.5.6.1.5823.32060108120906120965600000025"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 0,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=2.16.840.1.114255.393386351.1662151600.39288.100 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=2.16.840.1.114255.393386351.1662151600.39288.100"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 0,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.74882872531759.5707930.23850.21 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.74882872531759.5707930.23850.21"
+    },
+    {
+        "archive": "dicom://VR-VC-CPH@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 0,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.2.124.113532.128.5.1.74.20020115.90255.571477 @ dicom://VR-VC-CPH@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.2.124.113532.128.5.1.74.20020115.90255.571477"
+    },
+    {
+        "archive": "dicom://VR-VC-CPH@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 0,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.2.124.113532.172.16.48.200.20060718.105530.4833702 @ dicom://VR-VC-CPH@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.2.124.113532.172.16.48.200.20060718.105530.4833702"
+    },
+    {
+        "archive": "dicom://VR-EVA-CPH@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 0,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.3559141428050916499.6647596.12805.1 @ dicom://VR-EVA-CPH@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.3559141428050916499.6647596.12805.1"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 1,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.2.840.113619.2.67.2203893831.23914050901134649.20000 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.2.840.113619.2.67.2203893831.23914050901134649.20000"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 1,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.269819997845458.5895441.22872.280 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.269819997845458.5895441.22872.280"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 1,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.113352254466.5340973.4801.960 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.113352254466.5340973.4801.960"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 1,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.113352254466.5331671.28219.11 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.113352254466.5331671.28219.11"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 1,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.219520162625384.6107495.9765.1 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.219520162625384.6107495.9765.1"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 1,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.12.2.1107.5.6.1.5823.32060108120906120965600000025 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.12.2.1107.5.6.1.5823.32060108120906120965600000025"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 1,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=2.16.840.1.114255.393386351.1662151600.39288.100 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=2.16.840.1.114255.393386351.1662151600.39288.100"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 1,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.74882872531759.5707930.23850.21 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.74882872531759.5707930.23850.21"
+    },
+    {
+        "archive": "dicom://VR-VC-CPH@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 1,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.2.124.113532.128.5.1.74.20020115.90255.571477 @ dicom://VR-VC-CPH@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.2.124.113532.128.5.1.74.20020115.90255.571477"
+    },
+    {
+        "archive": "dicom://VR-VC-CPH@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 1,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.2.124.113532.172.16.48.200.20060718.105530.4833702 @ dicom://VR-VC-CPH@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.2.124.113532.172.16.48.200.20060718.105530.4833702"
+    },
+    {
+        "archive": "dicom://VR-EVA-CPH@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 1,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.3559141428050916499.6647596.12805.1 @ dicom://VR-EVA-CPH@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.3559141428050916499.6647596.12805.1"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 2,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.2.840.113619.2.67.2203893831.23914050901134649.20000 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.2.840.113619.2.67.2203893831.23914050901134649.20000"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 2,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.269819997845458.5895441.22872.280 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.269819997845458.5895441.22872.280"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 2,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.113352254466.5340973.4801.960 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.113352254466.5340973.4801.960"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 2,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.113352254466.5331671.28219.11 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.113352254466.5331671.28219.11"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 2,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.219520162625384.6107495.9765.1 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.219520162625384.6107495.9765.1"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 2,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.12.2.1107.5.6.1.5823.32060108120906120965600000025 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.12.2.1107.5.6.1.5823.32060108120906120965600000025"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 2,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=2.16.840.1.114255.393386351.1662151600.39288.100 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=2.16.840.1.114255.393386351.1662151600.39288.100"
+    },
+    {
+        "archive": "dicom://DCM4CHEE@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 2,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.74882872531759.5707930.23850.21 @ dicom://DCM4CHEE@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.74882872531759.5707930.23850.21"
+    },
+    {
+        "archive": "dicom://VR-VC-CPH@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 2,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.2.124.113532.128.5.1.74.20020115.90255.571477 @ dicom://VR-VC-CPH@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.2.124.113532.128.5.1.74.20020115.90255.571477"
+    },
+    {
+        "archive": "dicom://VR-VC-CPH@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 2,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.2.124.113532.172.16.48.200.20060718.105530.4833702 @ dicom://VR-VC-CPH@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.2.124.113532.172.16.48.200.20060718.105530.4833702"
+    },
+    {
+        "archive": "dicom://VR-EVA-CPH@",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 2,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.3559141428050916499.6647596.12805.1 @ dicom://VR-EVA-CPH@",
+        "severity": "error",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.3559141428050916499.6647596.12805.1"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "DCM4CHEE"
+                ],
+                "retrieveStats": [
+                ]
+            },
+            {
+                "archives": [
+                    "VR-EVA-CPH",
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 983,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.2",
+                        "transfer-syntax": "JPEG Lossless, Non-hierarchical, 1st Order Prediction"
+                    },
+                    {
+                        "instances": 14671,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 2,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.7",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study CT Large - 6602 images: [VR-EVA-CPH, VR-VC-CPH], [DCM4CHEE]",
+        "severity": "warning",
+        "study": "CT Large - 6602 images"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "DCM4CHEE"
+                ],
+                "retrieveStats": [
+                ]
+            },
+            {
+                "archives": [
+                    "VR-EVA-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 4258,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Little Endian Explicit"
+                    },
+                    {
+                        "instances": 2834,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 5,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.2",
+                        "transfer-syntax": "Little Endian Explicit"
+                    },
+                    {
+                        "instances": 4,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.2",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 941,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.128",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 809,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 58,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.7",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 1,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.88.59",
+                        "transfer-syntax": "Little Endian Implicit"
+                    }
+                ]
+            },
+            {
+                "archives": [
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 7092,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 9,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.2",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 1,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.88.59",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 941,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.128",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 809,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 58,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.7",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study CT Small - 353 images: [VR-EVA-CPH], [VR-VC-CPH], [DCM4CHEE]",
+        "severity": "warning",
+        "study": "CT Small - 353 images"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "DCM4CHEE"
+                ],
+                "retrieveStats": [
+                ]
+            },
+            {
+                "archives": [
+                    "VR-EVA-CPH",
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 9053,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 1,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.7",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study CT XLarge - 9058 images: [VR-EVA-CPH, VR-VC-CPH], [DCM4CHEE]",
+        "severity": "warning",
+        "study": "CT XLarge - 9058 images"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "DCM4CHEE"
+                ],
+                "retrieveStats": [
+                ]
+            },
+            {
+                "archives": [
+                    "VR-EVA-CPH",
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 9053,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.2",
+                        "transfer-syntax": "JPEG 2000 (Lossless only)"
+                    },
+                    {
+                        "instances": 1,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.7",
+                        "transfer-syntax": "JPEG 2000 (Lossless only)"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study CT XLarge, J2K - 9054 images: [DCM4CHEE], [VR-EVA-CPH, VR-VC-CPH]",
+        "severity": "warning",
+        "study": "CT XLarge, J2K - 9054 images"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "DCM4CHEE"
+                ],
+                "retrieveStats": [
+                ]
+            },
+            {
+                "archives": [
+                    "VR-EVA-CPH",
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 12,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.1.1",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study DX Large - 12 images: [DCM4CHEE], [VR-EVA-CPH, VR-VC-CPH]",
+        "severity": "warning",
+        "study": "DX Large - 12 images"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "DCM4CHEE",
+                    "VR-EVA-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 17,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.1.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 1,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 8,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.13.1.3",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 8,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.7",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    }
+                ]
+            },
+            {
+                "archives": [
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 1,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 17,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.1.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 8,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.13.1.3",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 8,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.7",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study MG DBT - 267 images: [VR-VC-CPH], [DCM4CHEE, VR-EVA-CPH]",
+        "severity": "warning",
+        "study": "MG DBT - 267 images"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                ]
+            },
+            {
+                "archives": [
+                    "DCM4CHEE",
+                    "VR-EVA-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 8,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.1.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 1,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.7",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study MG Screening - 8 images: [VR-VC-CPH], [DCM4CHEE, VR-EVA-CPH]",
+        "severity": "warning",
+        "study": "MG Screening - 8 images"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "VR-EVA-CPH"
+                ],
+                "retrieveStats": [
+                ]
+            },
+            {
+                "archives": [
+                    "DCM4CHEE",
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 4,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.1.2",
+                        "transfer-syntax": "Little Endian Explicit"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study Many Mammo Gens: [DCM4CHEE, VR-VC-CPH], [VR-EVA-CPH]",
+        "severity": "warning",
+        "study": "Many Mammo Gens"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "DCM4CHEE"
+                ],
+                "retrieveStats": [
+                ]
+            },
+            {
+                "archives": [
+                    "VR-EVA-CPH",
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 2,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.1",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study Many Studies: [VR-EVA-CPH, VR-VC-CPH], [DCM4CHEE]",
+        "severity": "warning",
+        "study": "Many Studies"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "DCM4CHEE"
+                ],
+                "retrieveStats": [
+                ]
+            },
+            {
+                "archives": [
+                    "VR-EVA-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 199,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 8,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.2",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 3215,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 28,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.7",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 2,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.88.11",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 6,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.88.59",
+                        "transfer-syntax": "Little Endian Implicit"
+                    }
+                ]
+            },
+            {
+                "archives": [
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 199,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 8,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.2",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 2,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.88.11",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 6,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.88.59",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 3215,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 28,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.7",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study Multi-series CT - ~2500 images: [VR-VC-CPH], [VR-EVA-CPH], [DCM4CHEE]",
+        "severity": "warning",
+        "study": "Multi-series CT - ~2500 images"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "DCM4CHEE"
+                ],
+                "retrieveStats": [
+                ]
+            },
+            {
+                "archives": [
+                    "VR-EVA-CPH",
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 6,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.20",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study NM Large - 1254 images: [VR-EVA-CPH, VR-VC-CPH], [DCM4CHEE]",
+        "severity": "warning",
+        "study": "NM Large - 1254 images"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "DCM4CHEE"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 5,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 494,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.128",
+                        "transfer-syntax": "JPEG Lossless, Non-hierarchical, 1st Order Prediction"
+                    },
+                    {
+                        "instances": 2395,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.2",
+                        "transfer-syntax": "JPEG Lossless, Non-hierarchical, 1st Order Prediction"
+                    }
+                ]
+            },
+            {
+                "archives": [
+                    "VR-EVA-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 5,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 494,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.128",
+                        "transfer-syntax": "JPEG Lossless, Non-hierarchical, 1st Order Prediction"
+                    },
+                    {
+                        "instances": 2395,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.2",
+                        "transfer-syntax": "JPEG Lossless, Non-hierarchical, 1st Order Prediction"
+                    },
+                    {
+                        "instances": 1,
+                        "sop-class": "1.3.6.1.4.1.16978.3.1",
+                        "transfer-syntax": "Little Endian Implicit"
+                    }
+                ]
+            },
+            {
+                "archives": [
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 5,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 1,
+                        "sop-class": "1.3.6.1.4.1.16978.3.1",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 494,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.128",
+                        "transfer-syntax": "JPEG Lossless, Non-hierarchical, 1st Order Prediction"
+                    },
+                    {
+                        "instances": 2395,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.2",
+                        "transfer-syntax": "JPEG Lossless, Non-hierarchical, 1st Order Prediction"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study PETCT Medium - 2031 images: [VR-VC-CPH], [DCM4CHEE], [VR-EVA-CPH]",
+        "severity": "warning",
+        "study": "PETCT Medium - 2031 images"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "DCM4CHEE",
+                    "VR-EVA-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 52,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 23,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.12.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 6,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.88.59",
+                        "transfer-syntax": "Little Endian Implicit"
+                    }
+                ]
+            },
+            {
+                "archives": [
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 52,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 6,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.88.59",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 23,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.12.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study RF Medium - 482 images: [DCM4CHEE, VR-EVA-CPH], [VR-VC-CPH]",
+        "severity": "warning",
+        "study": "RF Medium - 482 images"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                ]
+            },
+            {
+                "archives": [
+                    "DCM4CHEE",
+                    "VR-EVA-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 13,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 13,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.7",
+                        "transfer-syntax": "JPEG Lossless, Non-hierarchical, 1st Order Prediction"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study RF Small - 13 images: [VR-VC-CPH], [DCM4CHEE, VR-EVA-CPH]",
+        "severity": "warning",
+        "study": "RF Small - 13 images"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-12653-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.2.840.113619.2.67.2203893831.23914050901134649.20000;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-12832-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.3.6.1.4.1.16978.2.269819997845458.5895441.22872.280;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-12900-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.3.6.1.4.1.16978.2.113352254466.5340973.4801.960;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-12954-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.3.6.1.4.1.16978.2.113352254466.5331671.28219.11;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-13008-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.3.6.1.4.1.16978.2.219520162625384.6107495.9765.1;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-13180-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.3.12.2.1107.5.6.1.5823.32060108120906120965600000025;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-13757-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=2.16.840.1.114255.393386351.1662151600.39288.100;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-13857-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.3.6.1.4.1.16978.2.74882872531759.5707930.23850.21;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-53696-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.2.840.113619.2.67.2203893831.23914050901134649.20000;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-53874-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.3.6.1.4.1.16978.2.269819997845458.5895441.22872.280;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-53937-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.3.6.1.4.1.16978.2.113352254466.5340973.4801.960;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-53991-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.3.6.1.4.1.16978.2.113352254466.5331671.28219.11;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-54045-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.3.6.1.4.1.16978.2.219520162625384.6107495.9765.1;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-54219-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.3.12.2.1107.5.6.1.5823.32060108120906120965600000025;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-54787-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=2.16.840.1.114255.393386351.1662151600.39288.100;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-54889-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.3.6.1.4.1.16978.2.74882872531759.5707930.23850.21;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-94719-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.2.840.113619.2.67.2203893831.23914050901134649.20000;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-94899-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.3.6.1.4.1.16978.2.269819997845458.5895441.22872.280;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-94962-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.3.6.1.4.1.16978.2.113352254466.5340973.4801.960;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-95016-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.3.6.1.4.1.16978.2.113352254466.5331671.28219.11;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-95070-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.3.6.1.4.1.16978.2.219520162625384.6107495.9765.1;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-95241-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.3.12.2.1107.5.6.1.5823.32060108120906120965600000025;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-95836-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=2.16.840.1.114255.393386351.1662151600.39288.100;",
+        "severity": "error"
+    },
+    {
+        "category": "CAM Errors",
+        "line": "888",
+        "log_file": "/tmp/camloader-session-general2d-bench-12594-pid-95938-user-msmith.log",
+        "message": "Exception caught: evbase::Exception, thrown from camutility/src/DICOMStudyProxy.cc:84: Cannot load images.; Details: Cannot query study information for URI: dicom:?(0010,0020)=<redacted#1>;(0010,0021)=<redacted#3>;(0020,000d)=1.3.6.1.4.1.16978.2.74882872531759.5707930.23850.21;",
+        "severity": "error"
+    }
+]
