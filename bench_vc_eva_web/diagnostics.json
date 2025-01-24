@@ -1,0 +1,562 @@
+[
+    {
+        "archive": "VR-VC-CPH",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 0,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.2.124.113532.128.5.1.74.20020115.90255.571477 @ dicom://VR-VC-CPH@",
+        "severity": "error",
+        "study": "RF Small - 13 images",
+        "uri": "dicom:?(0020,000D)=1.2.124.113532.128.5.1.74.20020115.90255.571477"
+    },
+    {
+        "archive": "VR-VC-CPH",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 0,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.2.124.113532.172.16.48.200.20060718.105530.4833702 @ dicom://VR-VC-CPH@",
+        "severity": "error",
+        "study": "MG Screening - 8 images",
+        "uri": "dicom:?(0020,000D)=1.2.124.113532.172.16.48.200.20060718.105530.4833702"
+    },
+    {
+        "archive": "VR-EVA-CPH",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 0,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.3559141428050916499.6647596.12805.1 @ dicom://VR-EVA-CPH@",
+        "severity": "error",
+        "study": "Many Mammo Gens",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.3559141428050916499.6647596.12805.1"
+    },
+    {
+        "archive": "VR-VC-CPH",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 1,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.2.124.113532.128.5.1.74.20020115.90255.571477 @ dicom://VR-VC-CPH@",
+        "severity": "error",
+        "study": "RF Small - 13 images",
+        "uri": "dicom:?(0020,000D)=1.2.124.113532.128.5.1.74.20020115.90255.571477"
+    },
+    {
+        "archive": "VR-VC-CPH",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 1,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.2.124.113532.172.16.48.200.20060718.105530.4833702 @ dicom://VR-VC-CPH@",
+        "severity": "error",
+        "study": "MG Screening - 8 images",
+        "uri": "dicom:?(0020,000D)=1.2.124.113532.172.16.48.200.20060718.105530.4833702"
+    },
+    {
+        "archive": "VR-EVA-CPH",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 1,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.3559141428050916499.6647596.12805.1 @ dicom://VR-EVA-CPH@",
+        "severity": "error",
+        "study": "Many Mammo Gens",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.3559141428050916499.6647596.12805.1"
+    },
+    {
+        "archive": "VR-VC-CPH",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 2,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.2.124.113532.128.5.1.74.20020115.90255.571477 @ dicom://VR-VC-CPH@",
+        "severity": "error",
+        "study": "RF Small - 13 images",
+        "uri": "dicom:?(0020,000D)=1.2.124.113532.128.5.1.74.20020115.90255.571477"
+    },
+    {
+        "archive": "VR-VC-CPH",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 2,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.2.124.113532.172.16.48.200.20060718.105530.4833702 @ dicom://VR-VC-CPH@",
+        "severity": "error",
+        "study": "MG Screening - 8 images",
+        "uri": "dicom:?(0020,000D)=1.2.124.113532.172.16.48.200.20060718.105530.4833702"
+    },
+    {
+        "archive": "VR-EVA-CPH",
+        "category": "CAM Executions Failed",
+        "error_code": 1,
+        "iteration": 2,
+        "message": "CAM returned exit code 1: dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.3559141428050916499.6647596.12805.1 @ dicom://VR-EVA-CPH@",
+        "severity": "error",
+        "study": "Many Mammo Gens",
+        "uri": "dicom:?(0020,000D)=1.3.6.1.4.1.16978.2.3559141428050916499.6647596.12805.1"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "DCM4CHEE",
+                    "VR-EVA-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 4258,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Little Endian Explicit"
+                    },
+                    {
+                        "instances": 2834,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 5,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.2",
+                        "transfer-syntax": "Little Endian Explicit"
+                    },
+                    {
+                        "instances": 4,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.2",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 941,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.128",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 809,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 58,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.7",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 1,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.88.59",
+                        "transfer-syntax": "Little Endian Implicit"
+                    }
+                ]
+            },
+            {
+                "archives": [
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 7092,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 9,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.2",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 1,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.88.59",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 941,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.128",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 809,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 58,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.7",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study CT Small - 353 images: [DCM4CHEE, VR-EVA-CPH], [VR-VC-CPH]",
+        "severity": "warning",
+        "study": "CT Small - 353 images"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "DCM4CHEE",
+                    "VR-EVA-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 17,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.1.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 1,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 8,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.13.1.3",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 8,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.7",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    }
+                ]
+            },
+            {
+                "archives": [
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 1,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 17,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.1.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 8,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.13.1.3",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 8,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.7",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study MG DBT - 267 images: [VR-VC-CPH], [DCM4CHEE, VR-EVA-CPH]",
+        "severity": "warning",
+        "study": "MG DBT - 267 images"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                ]
+            },
+            {
+                "archives": [
+                    "DCM4CHEE",
+                    "VR-EVA-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 8,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.1.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 1,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.7",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study MG Screening - 8 images: [DCM4CHEE, VR-EVA-CPH], [VR-VC-CPH]",
+        "severity": "warning",
+        "study": "MG Screening - 8 images"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "VR-EVA-CPH"
+                ],
+                "retrieveStats": [
+                ]
+            },
+            {
+                "archives": [
+                    "DCM4CHEE",
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 4,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.1.2",
+                        "transfer-syntax": "Little Endian Explicit"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study Many Mammo Gens: [DCM4CHEE, VR-VC-CPH], [VR-EVA-CPH]",
+        "severity": "warning",
+        "study": "Many Mammo Gens"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "DCM4CHEE",
+                    "VR-EVA-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 199,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 8,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.2",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 3215,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 28,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.7",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 2,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.88.11",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 6,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.88.59",
+                        "transfer-syntax": "Little Endian Implicit"
+                    }
+                ]
+            },
+            {
+                "archives": [
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 199,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 8,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.2",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 2,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.88.11",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 6,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.88.59",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 3215,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 28,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.7",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study Multi-series CT - ~2500 images: [VR-VC-CPH], [DCM4CHEE, VR-EVA-CPH]",
+        "severity": "warning",
+        "study": "Multi-series CT - ~2500 images"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "DCM4CHEE"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 5,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 494,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.128",
+                        "transfer-syntax": "JPEG Lossless, Non-hierarchical, 1st Order Prediction"
+                    },
+                    {
+                        "instances": 2395,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.2",
+                        "transfer-syntax": "JPEG Lossless, Non-hierarchical, 1st Order Prediction"
+                    }
+                ]
+            },
+            {
+                "archives": [
+                    "VR-EVA-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 5,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 494,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.128",
+                        "transfer-syntax": "JPEG Lossless, Non-hierarchical, 1st Order Prediction"
+                    },
+                    {
+                        "instances": 2395,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.2",
+                        "transfer-syntax": "JPEG Lossless, Non-hierarchical, 1st Order Prediction"
+                    },
+                    {
+                        "instances": 1,
+                        "sop-class": "1.3.6.1.4.1.16978.3.1",
+                        "transfer-syntax": "Little Endian Implicit"
+                    }
+                ]
+            },
+            {
+                "archives": [
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 5,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 1,
+                        "sop-class": "1.3.6.1.4.1.16978.3.1",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 494,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.128",
+                        "transfer-syntax": "JPEG Lossless, Non-hierarchical, 1st Order Prediction"
+                    },
+                    {
+                        "instances": 2395,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.2",
+                        "transfer-syntax": "JPEG Lossless, Non-hierarchical, 1st Order Prediction"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study PETCT Medium - 2031 images: [VR-EVA-CPH], [VR-VC-CPH], [DCM4CHEE]",
+        "severity": "warning",
+        "study": "PETCT Medium - 2031 images"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "DCM4CHEE",
+                    "VR-EVA-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 52,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 23,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.12.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    },
+                    {
+                        "instances": 6,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.88.59",
+                        "transfer-syntax": "Little Endian Implicit"
+                    }
+                ]
+            },
+            {
+                "archives": [
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 52,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 6,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.88.59",
+                        "transfer-syntax": "Unknown Transfer Syntax"
+                    },
+                    {
+                        "instances": 23,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.12.2",
+                        "transfer-syntax": "JPEG-LS Lossless"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study RF Medium - 482 images: [DCM4CHEE, VR-EVA-CPH], [VR-VC-CPH]",
+        "severity": "warning",
+        "study": "RF Medium - 482 images"
+    },
+    {
+        "category": "Consistency Check",
+        "details": [
+            {
+                "archives": [
+                    "VR-VC-CPH"
+                ],
+                "retrieveStats": [
+                ]
+            },
+            {
+                "archives": [
+                    "DCM4CHEE",
+                    "VR-EVA-CPH"
+                ],
+                "retrieveStats": [
+                    {
+                        "instances": 13,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.11.1",
+                        "transfer-syntax": "Little Endian Implicit"
+                    },
+                    {
+                        "instances": 13,
+                        "sop-class": "1.2.840.10008.5.1.4.1.1.7",
+                        "transfer-syntax": "JPEG Lossless, Non-hierarchical, 1st Order Prediction"
+                    }
+                ]
+            }
+        ],
+        "message": "Archives sent differing data for study RF Small - 13 images: [VR-VC-CPH], [DCM4CHEE, VR-EVA-CPH]",
+        "severity": "warning",
+        "study": "RF Small - 13 images"
+    }
+]
