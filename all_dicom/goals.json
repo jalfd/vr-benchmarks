@@ -1,0 +1,4 @@
+{
+"ttfi": [ { "value": 2, "label": "Goal: ≤ 2s"} ],
+"tspd": [ { "value": 35, "label": "HMC-prod goal ≥ 35MB/s"}, { "value": 70, "label": "In-house test goal: ≥ 70MB/s" } ]
+}
